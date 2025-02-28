@@ -1,10 +1,19 @@
 # Analysis of Motor Vehicle Theft In New Zealand
 ## The Data Immersed Emerald Cohort Excel Capstone Project
 
+### Content
+- [Project Overview](#Project-Overview)
+- [Objectives](#Objectives)
+- [Dataset and Column Description](#Dataset-and-Column-Description)
+- [Data Transformation Process](#Data-Transformation-Process)
+- [Key Insights](#Key-Insights)
+- [Recommendations for Crime Prevention](#Recommendations-for-Crime-Prevention)
+- [Next Steps](#Next-Steps)
+   
 ### Project Overview
 Motor vehicle theft remains a significant problem in New Zealand, impacting individuals, businesses, and law enforcement. Without a strong, data-driven approach, it’s difficult to pinpoint high-risk areas, understand the key factors behind thefts, or develop effective prevention strategies. The lack of a centralized system to track and analyze theft patterns makes it harder for decision-makers to allocate resources efficiently, anticipate trends, and take targeted actions to reduce vehicle-related crime.
 
-### Major Objectives
+### Objectives
 
 The Motor Vehicle Theft Analysis Project aims to:
 #### Identify Theft Trends:
@@ -40,7 +49,7 @@ The dataset consists of three key tables:
 - Country: Country of theft (all "New Zealand").
 - Population: Population of the region.
 - Density: Population density of the region.
-### Data transformation Process
+### Data Transformation Process
 - Merged the three datasets provided into one using index-match.
 - Formatted each column to their appropriate data format.
 - Checked for duplicates and none was found.
